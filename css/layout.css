@@ -1,0 +1,20 @@
+a{
+    text-decoration: none;
+}
+.bg-footer{
+    background-color: #24272e;
+    color: white;
+}
+.nav a{
+    padding-left: 20px;
+    color: #808080;}
+.list a{
+    color: #808080;
+}
+.box{
+width: 40px;
+height: 40px;
+text-align: center;
+line-height: 40px;
+display: inline-block;
+}
